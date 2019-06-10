@@ -1,0 +1,22 @@
+{
+  "name": "@smevirtual/smevirtual.github.io",
+  "version": "0.0.0",
+  "description": "Central space for SME Virtual Network open source projects, workshops, creations and experiments.",
+  "private": true,
+  "license": "MIT",
+  "homepage": "https://labs.smevirtual.com/",
+  "author": "SME Texaplex Virtual Chapter Contributors <open@smevirtual.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smevirtual/smevirtual.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smevirtual/smevirtual.github.io/issues"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "10.x"
+  }
+}
